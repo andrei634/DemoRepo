@@ -14,6 +14,8 @@ namespace DBApproach
             }
 
             Console.ReadKey();
+
+            var i = 0;
         }
     }
 }
